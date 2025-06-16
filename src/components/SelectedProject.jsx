@@ -1,4 +1,6 @@
 import Button from "./Button";
+import Tasks from './Tasks';
+
 
 export default function SelectedProject({
   project,
